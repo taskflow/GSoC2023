@@ -53,7 +53,7 @@ Participants should expect weekly project meeting to sync up the progress.
 
 ### Expected Size of Project
 
-We expect a *large size* for this project because it spans multiple activities, such as implementing algorithms, benchmarking the solutions, and deploying solutions to real use cases.
+We expect a *large size* (350 hours) for this project because it spans multiple activities, such as implementing algorithms, benchmarking the solutions, and deploying solutions to real use cases.
 
 ### Difficulty Level
 
