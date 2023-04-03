@@ -61,7 +61,7 @@ We rate this project an *medium* level of difficulty. This project primarily foc
 *using* Taskflow to implement parallel algorithms and applications, rather than developing
 the Taskflow core functionalities. 
 Participants in this project will gain much practical and hands-on experience 
-of parallel programming and underatand the pros and cons of mainstream parallel programming tools.
+of parallel programming and understand the pros and cons of mainstream parallel programming tools.
 
 ### Contact
 
